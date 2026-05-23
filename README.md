@@ -20,6 +20,7 @@ A simple Python project for managing shopping items.
 - Add items
 - Remove items
 - View shopping list
+- Mark a task as completed
 
 ---
 
