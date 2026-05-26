@@ -1,20 +1,32 @@
 # STAGE1-PYTHON
 
 ## 📖 About
-This repository contains my beginner Python projects as I learn Data Science and Python programming.
+This repository contains my beginner Python projects as I learn Python programming and Data Science.
 
-I created these projects while practicing:
-- Python basics
-- Lists and loops
-- Functions
+The projects here were created while practicing:
+- Python fundamentals
+- Functions and loops
+- User input handling
+- Problem-solving
 - Jupyter Notebook workflow
 
 ---
 
 ## 🚀 Projects
 
-### 1. To-Do List App
-A task manager created with Python.
+### 🛒 Shopping List App
+A simple Python application for managing shopping items.
+
+#### Features
+- Add items
+- Remove items
+- View shopping list
+- Sort by alphabet or quantity
+
+---
+
+### ✅ To-Do List App
+A beginner task manager created with Python.
 
 #### Features
 - Add tasks
@@ -24,17 +36,27 @@ A task manager created with Python.
 
 ---
 
-### 2. Shopping List App
-A simple Python project for managing shopping items.
+### 🔐 Password Generator
+A Python project that generates secure random passwords.
 
 #### Features
-- Add items
-- Remove items
-- View shopping list
-- Sort by alphabet or quantity
+- Random password generation
+- Custom password length
+- Strength checker
+- Beginner security practice
 
 ---
-  
+
+### 🎮 Number Guessing Game
+A fun Python game where the user guesses a secret number.
+
+#### Features
+- Random number generation
+- User input handling
+- Difficulty level
+
+---
+
 ## 🛠️ Tools Used
 - Python
 - Jupyter Notebook
@@ -42,8 +64,8 @@ A simple Python project for managing shopping items.
 
 ---
 
-## 📚 What I'm Learning
-Currently learning:
+## 📚 Currently Learning
+- Data Science
 - Python Programming
 - Git & GitHub
 - Problem Solving
